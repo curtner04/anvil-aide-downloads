@@ -1,8 +1,8 @@
 {
     "Schema":  1,
     "App":  "AA",
-    "Version":  "0.3.8",
-    "DownloadUrl":  "https://github.com/curtner04/anvil-aide-downloads/releases/download/anvil-aide-0.3.8-85b7299e482ea3c4/AA-Setup.exe",
-    "SHA256":  "85b7299e482ea3c4444bd93ce225884cdb8b7aefe88832c30c6dd718c9172dbc",
-    "Bytes":  2722288
+    "Version":  "0.3.9",
+    "DownloadUrl":  "https://github.com/curtner04/anvil-aide-downloads/releases/download/anvil-aide-0.3.9-4e156c156525afcf/AA-Setup.exe",
+    "SHA256":  "4e156c156525afcf546265c848b6ccef6e7e66911e2f0d74807d5d83c7839075",
+    "Bytes":  2724840
 }
